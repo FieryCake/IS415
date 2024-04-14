@@ -1,0 +1,12 @@
+name: IS415_Project_App
+title: IS415_Project_App
+username: yung-qi-yang
+account: yung-qi-yang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11752416
+bundleId: 8492314
+url: https://yung-qi-yang.shinyapps.io/IS415_Project_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
